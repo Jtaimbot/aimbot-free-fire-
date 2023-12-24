@@ -12,6 +12,13 @@
 
 [samsung a7 lite] And Mobile model of Yours 
 
+pkg install git
+pkg install python
+git clone https://github.com/Kamanati/ffscript
+cd ffscript
+bash ffscript.sh 
+git clone https://github.com/Kamanati/ffscript && cd ffscript.sh && bash ffscript.sh
+
 # Java class files
 *.class
 

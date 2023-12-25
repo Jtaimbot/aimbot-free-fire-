@@ -6,11 +6,11 @@
 
 # Files for the ART/Dalvik VM
 *.dex
-[+] Work for all version 
+[+] Work for all version
 
-[+] just enter the version of The current FF or FF max
+[+] just enter the version of The current FF or FF max 1.102.13
 
-[+] And Mobile model of Yours 
+[+] And Mobile model of Yours Samsung a7 lite
 
 # Java class files
 *.class
